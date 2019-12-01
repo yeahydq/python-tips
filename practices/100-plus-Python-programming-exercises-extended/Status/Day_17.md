@@ -10,7 +10,9 @@
 
 
 ----------------------
-### Hints
+### Hints:
+<details>  <summary>Show the answer</summary>
+
 > ***Use "assert expression" to make assertion.***
 
 ----------------------
@@ -51,7 +53,9 @@ If the following n is given as input to the program:***
 ```
 
 ----------------------
-### Hints
+### Hints:
+<details>  <summary>Show the answer</summary>
+
 > ***Use eval() to evaluate an expression.***
 
 ----------------------
@@ -80,7 +84,9 @@ print(ans)
 >***Please write a binary search function which searches an item in a sorted list. The function should return the index of element to be searched in the list.***
 
 ----------------------
-### Hints
+### Hints:
+<details>  <summary>Show the answer</summary>
+
 >***Use if/elif to deal with conditions.***
 
 ----------------------
@@ -127,7 +133,9 @@ print bin_search(li,12)
 >***Please generate a random float where the value is between 10 and 100 using Python module.***
 
 ----------------------
-### Hints
+### Hints:
+<details>  <summary>Show the answer</summary>
+
 > ***Use random.random() to generate a random float in [0,1].***
 
 ----------------------
@@ -159,7 +167,9 @@ print(rand_num)
 
 
 ----------------------
-### Hints
+### Hints:
+<details>  <summary>Show the answer</summary>
+
 > ***Use random.random() to generate a random float in [0,1].***
 
 ----------------------

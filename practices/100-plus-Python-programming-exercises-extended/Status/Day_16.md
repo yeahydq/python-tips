@@ -30,6 +30,7 @@ If the following n is given as input to the program:***
 > ***We can define recursive function in Python.***
 
 ----------------------
+<details>  <summary>Show the answer</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -86,6 +87,7 @@ If the following n is given as input to the program:***
 > ***We can define recursive function in Python.***
 
 ----------------------
+<details>  <summary>Show the answer</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -143,6 +145,7 @@ Use list comprehension to generate a list from an existing list.
 Use string.join() to join a list of strings.***
 
 ----------------------
+<details>  <summary>Show the answer</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -200,6 +203,7 @@ If the following n is given as input to the program:***
 ----------------------
 ### Hints 
 > ***Use yield to produce the next value in generator.***
+<details>  <summary>Show the answer</summary>
 
 ----------------------
 
@@ -249,6 +253,7 @@ If the following n is given as input to the program:***
 > ***Use yield to produce the next value in generator.***
 
 ----------------------
+<details>  <summary>Show the answer</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -278,10 +283,3 @@ print(",".join(resp))
 
 ```
 ---------------------
-
-
-[***go to previous day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_15.md "Day 15")
-
-[***go to next day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_17.md "Day 17")
-
-[***Discussion***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/issues/3)

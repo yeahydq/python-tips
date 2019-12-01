@@ -9,7 +9,9 @@
 >***Please write a program to randomly print a integer number between 7 and 15 inclusive.***
 
 ----------------------
-### Hints 
+### Hints:
+<details>  <summary>Show the answer</summary>
+
 > ***Use random.randrange() to a random integer in a given range.***
 
 ----------------------
@@ -31,7 +33,9 @@ print random.randrange(7,16)
 >***Please write a program to compress and decompress the string "hello world!hello world!hello world!hello world!".***
 
 ----------------------
-### Hints 
+### Hints:
+<details>  <summary>Show the answer</summary>
+
 > ***Use zlib.compress() and zlib.decompress() to compress and decompress a string.***
 
 ----------------------
@@ -56,7 +60,9 @@ print zlib.decompress(t)
 >***Please write a program to print the running time of execution of "1+1" for 100 times.***
 
 ----------------------
-### Hints 
+### Hints:
+<details>  <summary>Show the answer</summary>
+
 >***Use timeit() function to measure the running time.***
 
 ----------------------
@@ -103,7 +109,9 @@ print(execution_time)
 >***Please write a program to shuffle and print the list [3,6,7,8].***
 
 ----------------------
-### Hints 
+### Hints:
+<details>  <summary>Show the answer</summary>
+
 > ***Use shuffle() function to shuffle a list.***
 
 ----------------------
@@ -149,7 +157,9 @@ print(lst)
 
 
 ----------------------
-### Hints 
+### Hints:
+<details>  <summary>Show the answer</summary>
+
 > ***Use list[index] notation to get a element from a list.***
 
 ----------------------

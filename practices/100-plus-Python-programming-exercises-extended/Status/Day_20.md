@@ -10,7 +10,9 @@
 
 
 ----------------------
-### Hints 
+### Hints:
+<details>  <summary>Show the answer</summary>
+
 > ***Use list comprehension to delete a bunch of element from a list.***
 
 ----------------------
@@ -50,7 +52,9 @@ print(lst)
 >***By using list comprehension, please write a program to print the list after removing numbers which are divisible by 5 and 7 in [12,24,35,70,88,120,155].***
 
 ----------------------
-### Hints 
+### Hints:
+<details>  <summary>Show the answer</summary>
+
 > ***Use list comprehension to delete a bunch of element from a list.***
 
 ----------------------
@@ -80,7 +84,9 @@ print(li)
 >***By using list comprehension, please write a program to print the list after removing the 0th, 2nd, 4th,6th numbers in [12,24,35,70,88,120,155].***
 
 ----------------------
-### Hints 
+### Hints:
+<details>  <summary>Show the answer</summary>
+
 >***Use list comprehension to delete a bunch of element from a list.
 Use enumerate() to get (index, value) tuple.***
 
@@ -113,7 +119,9 @@ print(li)
 >***By using list comprehension, please write a program to print the list after removing the 2nd - 4th numbers in [12,24,35,70,88,120,155].***
 
 ----------------------
-### Hints 
+### Hints:
+<details>  <summary>Show the answer</summary>
+
 > ***Use list comprehension to delete a bunch of element from a list.
 Use enumerate() to get (index, value) tuple.***
 
@@ -150,7 +158,9 @@ print(li)
 
 
 ----------------------
-### Hints 
+### Hints:
+<details>  <summary>Show the answer</summary>
+
 > ***Use list comprehension to make an array.***
 
 ----------------------

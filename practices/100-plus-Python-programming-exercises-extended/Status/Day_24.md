@@ -21,7 +21,9 @@
 >2 1 1
 >```
 
-### Hints 
+### Hints:
+<details>  <summary>Show the answer</summary>
+
 > ***Make a list to get the input order and a dictionary to count the word frequency***
 
 ----------------------
@@ -64,7 +66,9 @@ for word in word_list:
 >c 2
 >```
 
-### Hints
+### Hints:
+<details>  <summary>Show the answer</summary>
+
 > ***Count frequency with dictionary and sort by Value from dictionary Items***
 
 ----------------------
@@ -102,7 +106,9 @@ for i in dct[:3]:
 >Letter - 8
 >```
 ----------------------
-### Hints 
+### Hints:
+<details>  <summary>Show the answer</summary>
+
 > ***Use isdigit() and isalpha() function***
 
 ----------------------
@@ -141,7 +147,9 @@ print('Letter -',letter)
 >```
 
 ----------------------
-### Hints
+### Hints:
+<details>  <summary>Show the answer</summary>
+
 > ***Make a recursive function to get the sum***
 
 ----------------------

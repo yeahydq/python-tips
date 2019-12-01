@@ -23,7 +23,9 @@ d,1
 g,1
 f,1
 ```
-### Hints 
+### Hints:
+<details>  <summary>Show the answer</summary>
+
 > ***Use dict to store key/value pairs.
 Use dict.get() method to lookup a key with default value.***
 
@@ -78,7 +80,9 @@ rise to vote sir
 ```
 ris etov ot esir
 ```
-### Hints 
+### Hints:
+<details>  <summary>Show the answer</summary>
+
 > ***Use list[::-1] to iterate a list in a reverse order.***
 
 ----------------------
@@ -116,7 +120,9 @@ H1e2l3l4o5w6o7r8l9d
 ```
 Helloworld
 ```
-### Hints 
+### Hints:
+<details>  <summary>Show the answer</summary>
+
 >***Use list[::2] to iterate a list by step 2.***
 
 ----------------------
@@ -156,7 +162,9 @@ print(ns)
 >***Please write a program which prints all permutations of [1,2,3]***
 
 ----------------------
-### Hints 
+### Hints:
+<details>  <summary>Show the answer</summary>
+
 > ***Use itertools.permutations() to get permutations of list.***
 
 ----------------------
@@ -182,7 +190,9 @@ We count 35 heads and 94 legs among the chickens and rabbits in a farm. How many
 
 
 ----------------------
-### Hints 
+### Hints:
+<details>  <summary>Show the answer</summary>
+
 > ***Use for loop to iterate all possible solutions.***
 
 ----------------------

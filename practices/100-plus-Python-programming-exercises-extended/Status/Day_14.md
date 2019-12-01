@@ -11,6 +11,7 @@
 ----------------------
 ### Hints 
 > ***Use try/except to catch exceptions.***
+<details>  <summary>Show the answer</summary>
 
 ----------------------
 
@@ -59,6 +60,7 @@ except:
 > ***To define a custom exception, we need to define a class inherited from Exception.***
 
 ----------------------
+<details>  <summary>Show the answer</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -130,6 +132,7 @@ john
 > ***Use \w to match letters.***
 
 ----------------------
+<details>  <summary>Show the answer</summary>
 
 **Main author's Solution: Python 2**
 ```python

@@ -96,6 +96,8 @@ print fact(x)
 -------------------
 
 
+</details>
+
 # Question 3
 
 ### **Question:**

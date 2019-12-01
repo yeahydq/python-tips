@@ -10,7 +10,9 @@
 
 
 ----------------------
-### Hints 
+### Hints:
+<details>  <summary>Show the answer</summary>
+
 > ***Use random.choice() to a random element from a list.***
 
 ----------------------
@@ -41,7 +43,9 @@ print(random.choice(resp))
 >***Please write a program to output a random number, which is divisible by 5 and 7, between 10 and 150 inclusive using random module and list comprehension.***
 
 ----------------------
-### Hints 
+### Hints:
+<details>  <summary>Show the answer</summary>
+
 > ***Use random.choice() to a random element from a list.***
 
 ----------------------
@@ -70,7 +74,9 @@ print(random.choice(resp))
 >***Please write a program to generate a list with 5 random numbers between 100 and 200 inclusive.***
 
 ----------------------
-### Hints 
+### Hints:
+<details>  <summary>Show the answer</summary>
+
 >***Use random.sample() to generate a list of random values.***
 
 ----------------------
@@ -101,7 +107,9 @@ print(resp)
 >***Please write a program to randomly generate a list with 5 even numbers between 100 and 200 inclusive.***
 
 ----------------------
-### Hints 
+### Hints:
+<details>  <summary>Show the answer</summary>
+
 > ***Use random.sample() to generate a list of random values.***
 
 ----------------------
@@ -135,7 +143,9 @@ print(resp)
 
 
 ----------------------
-### Hints 
+### Hints:
+<details>  <summary>Show the answer</summary>
+
 > ***Use random.sample() to generate a list of random values.***
 
 ----------------------

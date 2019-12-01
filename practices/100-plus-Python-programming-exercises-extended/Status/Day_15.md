@@ -25,6 +25,7 @@ google
 > ***Use \w to match letters.***
 
 ----------------------
+<details>  <summary>Show the answer</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -73,6 +74,7 @@ If the following words is given as input to the program:***
 > ***Use re.findall() to find all substring using regex.***
 
 ----------------------
+<details>  <summary>Show the answer</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -123,6 +125,7 @@ print(ans)
 > ***Use u'strings' format to define unicode string.***
 
 ----------------------
+<details>  <summary>Show the answer</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -145,6 +148,7 @@ print unicodeString
 > ***Use unicode()/encode() function to convert.***
 
 ----------------------
+<details>  <summary>Show the answer</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -175,6 +179,7 @@ print(u)
 > ***Use unicode() function to convert.***
 
 ----------------------
+<details>  <summary>Show the answer</summary>
 
 **Solution:**
 ```python
@@ -207,6 +212,7 @@ If the following n is given as input to the program:***
 > ***Use float() to convert an integer to a float.Even if not converted it wont cause a problem because python by default understands the data type of a value***
 
 ----------------------
+<details>  <summary>Show the answer</summary>
 
 **Main author's Solution: Python 2**
 ```python
@@ -226,9 +232,3 @@ for i in range(1, n+1):
 print(round(sum, 2))  # rounded to 2 decimal point
 ```
 ---------------------
-
-[***go to previous day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_14.md "Day 14")
-
-[***go to next day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_16.md "Day 16")
-
-[***Discussion***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/issues/3)

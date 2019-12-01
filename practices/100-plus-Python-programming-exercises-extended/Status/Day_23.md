@@ -18,7 +18,9 @@
 >```
 >5
 >```
-### Hints 
+### Hints:
+<details>  <summary>Show the answer</summary>
+
 > ***Make the scores unique and then find 2nd best number***
 
 ----------------------
@@ -58,7 +60,9 @@ Your task is to wrap the string into a paragraph of width.***
 >YZ
 >```
 
-### Hints
+### Hints:
+<details>  <summary>Show the answer</summary>
+
 > ***Use wrap function of textwrap module***
 
 ----------------------
@@ -110,7 +114,9 @@ if __name__ == '__main__':
 >------e-d-e------
 >--------e--------
 >```
-### Hints 
+### Hints:
+<details>  <summary>Show the answer</summary>
+
 >***First print the half of the Rangoli in the given way and save each line in a list. Then print the list in reverse order to get the rest.***
 
 ----------------------
@@ -168,7 +174,9 @@ if __name__ == '__main__':
 
 
 ----------------------
-### Hints 
+### Hints:
+<details>  <summary>Show the answer</summary>
+
 > ***Use weekday function of calender module***
 
 ----------------------
@@ -214,7 +222,9 @@ print(calendar.day_name[dayId].upper())
 
 
 ----------------------
-### Hints
+### Hints:
+<details>  <summary>Show the answer</summary>
+
 > ***Use \'^\' to make symmetric difference operation.***
 
 ----------------------

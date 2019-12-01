@@ -9,6 +9,7 @@
 > ***Define a class named Circle which can be constructed by a radius. The Circle class has a method which can compute the area.***
 
 ----------------------
+<details>  <summary>Show the answer</summary>
 
 ### Hints
 > ***Use def methodName(self) to define a method.***
@@ -53,6 +54,7 @@ print(circle.area())
 > ***Define a class named Rectangle which can be constructed by a length and width. The Rectangle class has a method which can compute the area.***
 
 ----------------------
+<details>  <summary>Show the answer</summary>
 
 ### Hints 
 > ***Use def methodName(self) to define a method.***
@@ -102,6 +104,7 @@ print(rect.area())
 
 ----------------------
 
+<details>  <summary>Show the answer</summary>
 ### Hints 
 > ***To override a method in super class, we can define a method with the same name in the super class.***
 
@@ -166,6 +169,7 @@ print(Square().area())  # prints zero as default area
 > ***UUse raise() to raise an exception.***
 
 -----------
+<details>  <summary>Show the answer</summary>
 
 **Solution:**
 ```python
