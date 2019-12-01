@@ -1,3 +1,6 @@
+
+</details>
+
 # Question 16
 
 ### **Question:**
@@ -18,6 +21,8 @@
 ----------------------
 
 ### Hints:
+<details>  <summary>Show the answer</summary>
+
 >***In case of input data being supplied to the question, it should be assumed to be a console input.***
 
 -------------------
@@ -35,6 +40,9 @@ print(",".join(lst))
 ***There were a mistake in the the test case and the solution's whice were notified and fixed with the help of @dwedigital. My warm thanks to him.*** 
 
 ------------------------
+
+
+</details>
 
 # Question 17
 
@@ -61,6 +69,8 @@ D 100
 ----------------------
 
 ### Hints:
+<details>  <summary>Show the answer</summary>
+
 >***In case of input data being supplied to the question, it should be assumed to be a console input.***
 
 -------------------

@@ -1,5 +1,8 @@
 
 
+
+</details>
+
 # Question 54
 
 ### **Question**
@@ -43,6 +46,9 @@ print(ans)
 ```
 ---------------------
 
+
+
+</details>
 
 # Question 55
 
@@ -103,6 +109,9 @@ print(ans)
 
 
 
+
+</details>
+
 # Question 56
 
 ### **Question**
@@ -121,6 +130,9 @@ unicodeString = u"hello world!"
 print unicodeString
 ```
 ----------------
+
+
+</details>
 
 # Question 57
 
@@ -149,6 +161,9 @@ print(u)
 ```
 ---------------------
 
+
+</details>
+
 # Question 58
 
 ### **Question**
@@ -166,6 +181,9 @@ print(u)
 # -*- coding: utf-8 -*-
 ```
 ----------------
+
+</details>
+
 # Question 59
 
 ### **Question**

@@ -1,4 +1,7 @@
 
+
+</details>
+
 # Question 47
 
 ### **Question**
@@ -39,6 +42,9 @@ circle = Circle(5)
 print(circle.area())
 ```
 ----------------
+
+
+</details>
 
 # Question 48
 
@@ -84,6 +90,9 @@ print(rect.area())
 
 ```
 ----------------
+
+
+</details>
 
 # Question 49
 
@@ -142,6 +151,9 @@ print(Asqr.area())      # prints 25 as given argument
 print(Square().area())  # prints zero as default area
 ```
 ---------------------
+
+
+</details>
 
 # Question 50
 

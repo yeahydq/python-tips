@@ -1,3 +1,6 @@
+
+</details>
+
 # Question 31
 
 ### **Question:**
@@ -6,7 +9,9 @@
 
 ----------------------
 
-### Hints: 
+### Hints:
+<details>  <summary>Show the answer</summary>
+ 
 ```
 Use dict[key]=value pattern to put entry into a dictionary.Use ** operator to get power of a number.Use range() for loops.
 ```
@@ -32,6 +37,9 @@ printDict()
 ```
 ----------------
 
+
+</details>
+
 # Question 32
 
 ### **Question:**
@@ -41,6 +49,8 @@ printDict()
 ----------------------
 
 ### Hints:
+<details>  <summary>Show the answer</summary>
+
 ``` 
 Use dict[key]=value pattern to put entry into a dictionary.Use ** operator to get power of a number.Use range() for loops.Use keys() to iterate keys in the dictionary. Also we can use item() to get key/value pairs.
 ```
@@ -66,6 +76,9 @@ printDict()
 ```
 ---------------------
 
+
+</details>
+
 # Question 33
 
 ### **Question:**
@@ -75,6 +88,8 @@ printDict()
 ----------------------
 
 ### Hints:
+<details>  <summary>Show the answer</summary>
+
 ```
 Use ** operator to get power of a number.Use range() for loops.Use list.append() to add values into a list.
 ```
@@ -101,6 +116,9 @@ printList()
 ```
 -------------------
 
+
+</details>
+
 # Question 34
 
 ### **Question:**
@@ -110,6 +128,8 @@ printList()
 ----------------------
 
 ### Hints:
+<details>  <summary>Show the answer</summary>
+
 ```
 Use ** operator to get power of a number.Use range() for loops.Use list.append() to add values into a list.Use [n1:n2] to slice a list
 ```
@@ -138,6 +158,9 @@ def printList():
 printList()
 ```
 -------------
+
+</details>
+
 # Question 35
 
 ### **Question:**
@@ -146,6 +169,8 @@ printList()
 
 ----------------------
 ### Hints:
+<details>  <summary>Show the answer</summary>
+
 ```
 Use ** operator to get power of a number.Use range() for loops.Use list.append() to add values into a list.Use [n1:n2] to slice a list
 ```
@@ -171,6 +196,9 @@ def printList():
 printList()
 ```
 ----------------------
+
+</details>
+
 # Question 36
 
 ### **Question:**
@@ -205,6 +233,9 @@ printList()
 ```
 
 ---------------------
+
+</details>
+
 # Question 37
 
 ### **Question:**
@@ -214,7 +245,9 @@ printList()
 
 ----------------------
 
-### Hints: 
+### Hints:
+<details>  <summary>Show the answer</summary>
+ 
 ```
 Use ** operator to get power of a number.Use range() for loops.Use list.append() to add values into a list.Use tuple() to get a tuple from a list.
 ```

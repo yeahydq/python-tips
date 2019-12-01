@@ -1,3 +1,6 @@
+
+</details>
+
 # Question 100
 
 ### **Question**
@@ -41,6 +44,9 @@ for word in word_list:
 ```
 ---------------------
 
+
+</details>
+
 # Question 101
 
 ### **Question**
@@ -77,6 +83,9 @@ for i in dct[:3]:
 ---------------------
 
 
+
+</details>
+
 # Question 102
 ### **Question**
 
@@ -111,6 +120,9 @@ print('Letter -',letter)
 ```
 ----------------
 
+
+
+</details>
 
 # Question 103
 

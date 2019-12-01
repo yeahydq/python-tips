@@ -1,4 +1,7 @@
 
+
+</details>
+
 # Question 51
 
 ### **Question**
@@ -41,6 +44,9 @@ except:
 ```
 ---------------------
 
+
+
+</details>
 
 # Question 52
 
@@ -97,6 +103,9 @@ except CustomException as ce:
 ```
 ---------------------
 
+
+
+</details>
 
 # Question 53
 

@@ -1,3 +1,6 @@
+
+</details>
+
 # Question 22
 
 ### **Question:**
@@ -91,6 +94,9 @@ pprint({i:p.count(i) for i in p})
 ```
 ---------------
 
+
+</details>
+
 # Question 23
 
 ### **Question:**
@@ -100,6 +106,8 @@ pprint({i:p.count(i) for i in p})
 ----------------------
 
 ### Hints:
+<details>  <summary>Show the answer</summary>
+
 ```
 Using the ** operator which can be written as n**p where means n^p
 ```
@@ -120,6 +128,9 @@ n=int(input())
 print(n**2)
 ```
 ---------------------
+
+</details>
+
 # Question 24
 
 ### **Question:**
@@ -130,7 +141,9 @@ print(n**2)
 
 >***And add document for your own function***
 
-### Hints: 
+### Hints:
+<details>  <summary>Show the answer</summary>
+ 
 ```
 The built-in document method is __doc__
 ```
@@ -171,6 +184,9 @@ print(pow(3,4))
 print(pow.__doc__)
 ```
 ---------------------
+
+</details>
+
 # Question 25
 
 ### **Question:**
@@ -179,7 +195,9 @@ print(pow.__doc__)
 
 ----------------------
 
-### Hints: 
+### Hints:
+<details>  <summary>Show the answer</summary>
+ 
 ```
 Define an instance parameter, need add it in __init__ method.You can init an object with construct parameter or set the value later
 ```

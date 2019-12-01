@@ -1,3 +1,6 @@
+
+</details>
+
 # Question 44
 
 ### **Question:**
@@ -6,6 +9,8 @@
 ---------------
 
 ### Hints:
+<details>  <summary>Show the answer</summary>
+
 >***Use map() to generate a list. Use lambda to define anonymous functions.***
 
 ---------------
@@ -26,13 +31,18 @@ print (squaredNumbers)
 ```
 ----------------------------------------
 
+
+</details>
+
 # Question 45
 
 ### **Question:**
 >***Define a class named American which has a static method called printNationality.***
 
 ---------------------
-### Hints: 
+### Hints:
+<details>  <summary>Show the answer</summary>
+ 
 >***Use @staticmethod decorator to define class static method.There are also two more methods.To know more, go to this [link](https://realpython.com/blog/python/instance-class-and-static-methods-demystified/).***
 
 ---------------------
@@ -64,6 +74,9 @@ American.printNationality()   # this will run even though the @staticmethod
 ```
 ----------------------------------------
 
+
+</details>
+
 # Question 46
 
 ### **Question:**
@@ -71,7 +84,9 @@ American.printNationality()   # this will run even though the @staticmethod
 
 ------------
 
-### Hints: 
+### Hints:
+<details>  <summary>Show the answer</summary>
+ 
 >**Use class Subclass(ParentClass) to define a subclass.***
 
 ------------

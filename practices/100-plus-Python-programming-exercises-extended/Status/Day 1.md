@@ -1,4 +1,5 @@
 
+
 # Question 1
 
 ### **Question:**
@@ -7,7 +8,9 @@
 between 2000 and 3200 (both included).The numbers obtained should be printed in a comma-separated sequence on a single line.***
 
 --------------------------------------
-### Hints: 
+### Hints:
+<details>  <summary>Show the answer</summary>
+
 > ***Consider use range(#begin, #end) method.***
 
 ---------------------------------------
@@ -32,6 +35,10 @@ print("\b")
 ```
 -------------------------------
 
+
+</details>
+
+
 # Question 2
 
 ### **Question:**
@@ -41,6 +48,8 @@ Then, the output should be:40320***
 
 --------------------
 ### Hints:
+<details>  <summary>Show the answer</summary>
+
 >***In case of input data being supplied to the question, it should be assumed to be a console input.***
 
 ---------------
@@ -86,6 +95,7 @@ print fact(x)
     ```
 -------------------
 
+
 # Question 3
 
 ### **Question:**
@@ -98,7 +108,9 @@ print fact(x)
 ```
 ------------------
 
-### Hints: 
+### Hints:
+<details>  <summary>Show the answer</summary>
+ 
 >***In case of input data being supplied to the question, it should be assumed to be a console input.Consider use dict()***
 
 -----------------

@@ -1,4 +1,7 @@
 
+
+</details>
+
 # Question 70
 
 ### **Question**
@@ -28,6 +31,9 @@ print(random.choice(resp))
 ---------------------
 
 
+
+</details>
+
 # Question 71
 
 ### **Question**
@@ -53,6 +59,9 @@ resp = [i for i in range(10,151) if i % 35 == 0 ]
 print(random.choice(resp))
 ```
 ---------------------
+
+
+</details>
 
 # Question 72
 
@@ -81,6 +90,9 @@ print(resp)
 ```
 ---------------------
 
+
+
+</details>
 
 # Question 73
 
@@ -111,6 +123,9 @@ print(resp)
 ---------------------
 
 
+
+
+</details>
 
 # Question 74
 

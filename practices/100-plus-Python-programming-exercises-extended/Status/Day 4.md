@@ -1,4 +1,7 @@
 
+
+</details>
+
 # Question 14
 
 ### **Question:**
@@ -17,6 +20,8 @@ LOWER CASE 9
 ---------------------
 
 ### Hints:
+<details>  <summary>Show the answer</summary>
+
 >***In case of input data being supplied to the question, it should be assumed to be a console input.***
 
 -------------------
@@ -84,6 +89,9 @@ print("UPPER CASE: ", upper)
 print("LOWER CASE: ", lower)
 ```
 ----------------------
+
+</details>
+
 # Question 15
 
 ### **Question:**
@@ -102,6 +110,8 @@ print("LOWER CASE: ", lower)
 ```
 ---------------------
 ### Hints:
+<details>  <summary>Show the answer</summary>
+
 >***In case of input data being supplied to the question, it should be assumed to be a console input.***
 
 -------------------

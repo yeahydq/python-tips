@@ -1,3 +1,6 @@
+
+</details>
+
 # Question 4
 
 ### **Question:**
@@ -16,6 +19,8 @@
 ```
 
 ### Hints:
+<details>  <summary>Show the answer</summary>
+
 >***In case of input data being supplied to the question, it should be assumed to be a console input.tuple() method can convert list to tuple***
 
 -----------------------
@@ -42,6 +47,9 @@ print(lst)
 print(tpl)
 ```
 --------------------------
+
+</details>
+
 # Question 5
 
 ### **Question:**
@@ -53,6 +61,8 @@ print(tpl)
 >***Also please include simple test function to test the class methods.***
 
 ### Hints:
+<details>  <summary>Show the answer</summary>
+
 >***Use __init__ method to construct some parameters***
 
 ----------------------------------
@@ -90,6 +100,9 @@ xx.getString()
 xx.printString()
 ```
 --------------------------
+
+</details>
+
 # Question 6
 
 ### **Question:**
@@ -114,6 +127,8 @@ Let us assume the following comma separated input sequence is given to the progr
 --------------------------
 
 ### Hints:
+<details>  <summary>Show the answer</summary>
+
 >***If the output received is in decimal form, it should be rounded off to its nearest value (for example, if the output received is 26.0, it should be printed as 26).In case of input data being supplied to the question, it should be assumed to be a console input.***
 
 ----------------------------
@@ -187,6 +202,9 @@ D = list(map(calc,D))   # applying calc function on D and storing as a list
 print(",".join(D))
 ```
 ---------------------
+
+</details>
+
 # Question 7
 
 ### **Question:**
@@ -203,6 +221,8 @@ print(",".join(D))
 -------------------------------
 
 ### Hints:
+<details>  <summary>Show the answer</summary>
+
 >***Note: In case of input data being supplied to the question, it should be assumed to be a console input in a comma-separated form.***
 
 ------------------
@@ -241,6 +261,9 @@ lst = [[i*j for j in range(y)] for i in range(x)]
 print(lst)
 ```
 ---------------------------
+
+</details>
+
 # Question 8
 
 ### **Question:**
@@ -258,6 +281,8 @@ bag,hello,without,world
 
 ----------------------
 ### Hints:
+<details>  <summary>Show the answer</summary>
+
 >***In case of input data being supplied to the question, it should be assumed to be a console input.***
 
 -------------------
@@ -275,6 +300,9 @@ lst.sort()
 print(",".join(lst))
 ```
 -------------------------------
+
+</details>
+
 # Question 9
 
 ### **Question:**
@@ -294,6 +322,8 @@ PRACTICE MAKES PERFECT
 
 ----------------------
 ### Hints:
+<details>  <summary>Show the answer</summary>
+
 >***In case of input data being supplied to the question, it should be assumed to be a console input.***
 
 -------------------

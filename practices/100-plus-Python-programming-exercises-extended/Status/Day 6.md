@@ -1,3 +1,6 @@
+
+</details>
+
 # Question 18
 
 ### **Question:**
@@ -28,6 +31,8 @@ ABd1234@1
 ----------------------
 
 ### Hints:
+<details>  <summary>Show the answer</summary>
+
 >***In case of input data being supplied to the question, it should be assumed to be a console input.***
 
 -------------------
@@ -141,6 +146,9 @@ print(",".join(lst))
 
 --------------------------
 
+
+</details>
+
 # Question 19
 
 ### **Question:**
@@ -168,6 +176,8 @@ Json,21,85
 ----------------------
 
 ### Hints:
+<details>  <summary>Show the answer</summary>
+
 >***In case of input data being supplied to the question, it should be assumed to be a console input.We use itemgetter to enable multiple sort keys.***
 
 -------------------

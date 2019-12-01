@@ -1,4 +1,7 @@
 
+
+</details>
+
 # Question 75
 
 ### **Question**
@@ -17,6 +20,9 @@ import random
 print random.randrange(7,16)
 ```
 ----------------
+
+
+</details>
 
 # Question 76
 
@@ -39,6 +45,9 @@ print t
 print zlib.decompress(t)
 ```
 ----------------
+
+
+</details>
 
 # Question 77
 
@@ -84,6 +93,9 @@ print(execution_time)
 ```
 ---------------------
 
+
+</details>
+
 # Question 78
 
 ### **Question**
@@ -125,6 +137,9 @@ random.Random(seed).shuffle(lst)
 print(lst)
 ```
 ---------------------
+
+
+</details>
 
 # Question 79
 

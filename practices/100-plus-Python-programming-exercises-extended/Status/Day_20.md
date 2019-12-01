@@ -1,4 +1,7 @@
 
+
+</details>
+
 # Question 80
 
 ### **Question**
@@ -37,6 +40,9 @@ print(lst)
 ---------------------
 
 
+
+</details>
+
 # Question 81
 
 ### **Question**
@@ -63,6 +69,9 @@ li = [x for x in li if x % 35!=0]
 print(li)
 ```
 ---------------------
+
+
+</details>
 
 # Question 82
 
@@ -93,6 +102,9 @@ print(li)
 ```
 ---------------------
 
+
+
+</details>
 
 # Question 83
 
@@ -126,6 +138,9 @@ print(li)
 ---------------------
 
 
+
+
+</details>
 
 # Question 84
 

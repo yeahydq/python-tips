@@ -1,3 +1,6 @@
+
+</details>
+
 # Question 20
 
 ### **Question:**
@@ -7,6 +10,8 @@
 ----------------------
 
 ### Hints:
+<details>  <summary>Show the answer</summary>
+
 >***Consider use class, function and comprehension.***
 
 -------------------
@@ -27,6 +32,9 @@ print(lst)
 
 ```
 ----------------------
+
+</details>
+
 # Question 21
 
 ### **Question:**
@@ -54,6 +62,8 @@ RIGHT 2
 
 ----------------------
 ### Hints:
+<details>  <summary>Show the answer</summary>
+
 >***In case of input data being supplied to the question, it should be assumed to be a console input.Here distance indicates to euclidean distance.Import math module to use sqrt function.***
 
 -----------------------

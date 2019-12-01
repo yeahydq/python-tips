@@ -1,4 +1,7 @@
 
+
+</details>
+
 # Question 90
 
 ### **Question**
@@ -57,6 +60,9 @@ for letter in range(ord('a'),ord('z')+1):    # ord() gets the ascii value of a c
 ---------------------
 
 
+
+</details>
+
 # Question 91
 
 ### **Question**
@@ -91,6 +97,9 @@ s = ''.join(reversed(s))
 print(s)
 ```
 ---------------------
+
+
+</details>
 
 # Question 92
 
@@ -137,6 +146,9 @@ print(ns)
 ---------------------
 
 
+
+</details>
+
 # Question 93
 
 ### **Question**
@@ -157,6 +169,9 @@ print list(itertools.permutations([1,2,3]))
 ```
 ----------------
 
+
+
+</details>
 
 # Question 94
 

@@ -1,4 +1,7 @@
 
+
+</details>
+
 # Question 65
 
 ### **Question**
@@ -27,6 +30,9 @@ for i in data:
 ```
 ---------------------
 
+
+
+</details>
 
 # Question 66
 
@@ -63,6 +69,9 @@ ans = eval(expression)
 print(ans)
 ```
 ---------------------
+
+
+</details>
 
 # Question 67
 
@@ -108,6 +117,9 @@ print bin_search(li,12)
 ---------------------
 
 
+
+</details>
+
 # Question 68
 
 ### **Question**
@@ -135,6 +147,9 @@ print(rand_num)
 ---------------------
 
 
+
+
+</details>
 
 # Question 69
 

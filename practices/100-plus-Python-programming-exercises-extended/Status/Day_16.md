@@ -1,5 +1,8 @@
 
 
+
+</details>
+
 # Question 60
 
 ### **Question**
@@ -52,6 +55,9 @@ print(f(n))
 ```
 ---------------------
 
+
+</details>
+
 # Question 61
 
 ### **Question**
@@ -103,6 +109,9 @@ n = int(input())
 print(f(n))
 ```
 ---------------------
+
+
+</details>
 
 # Question 62
 
@@ -168,6 +177,9 @@ print(ans)
 ---------------------
 
 
+
+</details>
+
 # Question 63
 
 ### **Question**
@@ -211,6 +223,9 @@ print ",".join(values)
 ```
 ----------------
 
+
+
+</details>
 
 # Question 64
 

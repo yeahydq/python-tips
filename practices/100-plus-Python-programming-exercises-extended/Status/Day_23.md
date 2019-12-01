@@ -1,5 +1,8 @@
 # The extended part of the repository starts from this page. Previous 94 problems were collected from the repository mentioned in intro. The following problems are collected from Hackerrank and other resources from internet.All the given solutions are in python 3.
 
+
+</details>
+
 # Question 95
 
 ### **Question**
@@ -28,6 +31,9 @@ arr.sort()
 print(arr[-2])
 ```
 ---------------------
+
+
+</details>
 
 # Question 96
 
@@ -72,6 +78,9 @@ if __name__ == '__main__':
     print(result)
 ```
 ---------------------
+
+
+</details>
 
 # Question 97
 
@@ -135,6 +144,9 @@ if __name__ == '__main__':
 ---------------------
 
 
+
+</details>
+
 # Question 98
 
 ### **Question**
@@ -172,6 +184,9 @@ print(calendar.day_name[dayId].upper())
 ```
 ----------------
 
+
+
+</details>
 
 # Question 99
 

@@ -1,4 +1,7 @@
 
+
+</details>
+
 # Question 26
 
 ### **Question:**
@@ -8,6 +11,8 @@
 ----------------------
 
 ### Hints:
+<details>  <summary>Show the answer</summary>
+
 >***Define a function with two numbers as arguments. You can compute the sum in the function and return the value.***
 
 -------------------
@@ -27,6 +32,9 @@ print(sum(1,2))
 ```
 
 ----------------------------
+
+</details>
+
 # Question 27
 
 ### **Question:**
@@ -34,7 +42,9 @@ print(sum(1,2))
 >***Define a function that can convert a integer into a string and print it in console.***
 
 ----------------------
-### Hints: 
+### Hints:
+<details>  <summary>Show the answer</summary>
+ 
 >***Use str() to convert a number to string.***
 
 -------------------
@@ -57,6 +67,9 @@ print(type(n))            # checks the type of the variable
 ```
 ---------------------
 
+
+</details>
+
 # Question 28
 
 ### **Question:**
@@ -64,7 +77,9 @@ print(type(n))            # checks the type of the variable
 >***Define a function that can receive two integer numbers in string form and compute their sum and then print it in console.***
 
 ----------------------
-### Hints: 
+### Hints:
+<details>  <summary>Show the answer</summary>
+ 
 >***Use int() to convert a string to integer.***
 
 -------------------
@@ -83,6 +98,9 @@ print(sum("10","45"))      # 55
 ```
 -------------------
 
+
+</details>
+
 # Question 29
 
 ### **Question:**
@@ -91,7 +109,9 @@ print(sum("10","45"))      # 55
 
 ----------------------
 
-### Hints: 
+### Hints:
+<details>  <summary>Show the answer</summary>
+ 
 >***Use + sign to concatenate the strings.***
 
 -------------------
@@ -109,6 +129,9 @@ sum = lambda s1,s2 : s1 + s2
 print(sum("10","45"))        # 1045
 ```
 ------------------
+
+</details>
+
 # Question 30
 
 ### **Question:**
@@ -116,7 +139,9 @@ print(sum("10","45"))        # 1045
 >***Define a function that can accept two strings as input and print the string with maximum length in console. If two strings have the same length, then the function should print all strings line by line.***
 
 ----------------------
-### Hints: 
+### Hints:
+<details>  <summary>Show the answer</summary>
+ 
 >***Use len() function to get the length of a string.***
 
 -------------------

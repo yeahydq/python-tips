@@ -1,3 +1,6 @@
+
+</details>
+
 # Question 38
 
 ### **Question:**
@@ -7,6 +10,8 @@
 ----------------------
 
 ### Hints:
+<details>  <summary>Show the answer</summary>
+
 >***Use [n1:n2] notation to get a slice from a tuple.***
 
 -------------------
@@ -57,6 +62,9 @@ print(tup[:lt], tup[lt:])
 ```
 ------------------
 
+
+</details>
+
 # Question 39
 
 ### **Question:**
@@ -66,6 +74,8 @@ print(tup[:lt], tup[lt:])
 ----------------------
 
 ### Hints:
+<details>  <summary>Show the answer</summary>
+
 >***Use "for" to iterate the tuple. Use tuple() to generate a tuple from a list.***
 
 -------------------
@@ -97,6 +107,9 @@ print(tpl1)
 ```
 ----------------
 
+
+</details>
+
 # Question 40
 
 ### **Question:**
@@ -105,7 +118,9 @@ print(tpl1)
 
 ----------------------
 
-### Hints: 
+### Hints:
+<details>  <summary>Show the answer</summary>
+ 
 >***Use if statement to judge condition.***
 
 -------------------
@@ -128,6 +143,9 @@ else:
 ```
 ----------------
 
+
+</details>
+
 # Question 41
 
 ### **Question:**
@@ -136,7 +154,9 @@ else:
 
 ----------------------
 
-### Hints: 
+### Hints:
+<details>  <summary>Show the answer</summary>
+ 
 >***Use map() to generate a list.Use lambda to define anonymous functions.***
 
 -------------------
@@ -158,6 +178,9 @@ print(list(squaredNumbers))               # converting the object into list
 ```
 --------------
 
+
+</details>
+
 # Question 42
 
 ### **Question:**
@@ -165,7 +188,9 @@ print(list(squaredNumbers))               # converting the object into list
 >***Write a program which can map() and filter() to make a list whose elements are square of even number in [1,2,3,4,5,6,7,8,9,10].***
 
 ----------------------
-### Hints: 
+### Hints:
+<details>  <summary>Show the answer</summary>
+ 
 >***Use map() to generate a list.Use filter() to filter elements of a list.Use lambda to define anonymous functions.***
 
 -------------------
@@ -191,6 +216,9 @@ li = map(squer,filter(even,li))   # first filters number by even number and the 
 print(list(li))
 ```
 ---------------
+
+</details>
+
 # Question 43
 
 ### **Question:**
@@ -198,7 +226,9 @@ print(list(li))
 >***Write a program which can filter() to make a list whose elements are even number between 1 and 20 (both included).***
 
 ----------------------
-### Hints: 
+### Hints:
+<details>  <summary>Show the answer</summary>
+ 
 >***Use filter() to filter elements of a list.Use lambda to define anonymous functions.***
 
 -------------------

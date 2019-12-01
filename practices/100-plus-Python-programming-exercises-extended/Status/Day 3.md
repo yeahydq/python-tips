@@ -1,3 +1,6 @@
+
+</details>
+
 # Question 10
 
 ### **Question**
@@ -16,6 +19,8 @@ again and hello makes perfect practice world
 ----------------------
 
 ### Hints:
+<details>  <summary>Show the answer</summary>
+
 >***In case of input data being supplied to the question, it should be assumed to be a console input.We use set container to remove duplicated data automatically and then use sorted() to sort the data.***
 
 -------------------
@@ -52,6 +57,9 @@ print(" ".join(word))
 ```
 ---------------------------
 
+
+</details>
+
 # Question 11
 
 ### **Question**
@@ -71,6 +79,8 @@ print(" ".join(word))
 ----------------------
 
 ### Hints:
+<details>  <summary>Show the answer</summary>
+
 >***In case of input data being supplied to the question, it should be assumed to be a console input.***
 
 -------------------
@@ -124,6 +134,9 @@ print(",".join(data))
 ```
 -------------------------
 
+
+</details>
+
 # Question 12
 
 ### **Question:**
@@ -133,6 +146,8 @@ print(",".join(data))
 ----------------------
 
 ### Hints:
+<details>  <summary>Show the answer</summary>
+
 >***In case of input data being supplied to the question, it should be assumed to be a console input.***
 
 -------------------
@@ -177,6 +192,9 @@ print(",".join(lst))
 ```
 -------------------------
 
+
+</details>
+
 # Question 13
 
 ### **Question:**
@@ -197,6 +215,8 @@ DIGITS 3
 ----------------------
 
 ### Hints:
+<details>  <summary>Show the answer</summary>
+
 >***In case of input data being supplied to the question, it should be assumed to be a console input.***
 
 -------------------

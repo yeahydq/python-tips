@@ -1,4 +1,7 @@
 
+
+</details>
+
 # Question 85
 
 ### **Question**
@@ -28,6 +31,9 @@ print(li)
 ---------------------
 
 
+
+</details>
+
 # Question 86
 
 ### **Question**
@@ -54,6 +60,9 @@ li.remove(24)  # this will remove only the first occurrence of 24
 print(li)
 ```
 ---------------------
+
+
+</details>
 
 # Question 87
 
@@ -97,6 +106,9 @@ print(intersection)
 ```
 ---------------------
 
+
+
+</details>
 
 # Question 88
 
@@ -150,6 +162,9 @@ print(ans)
 ```
 ---------------------
 
+
+
+</details>
 
 # Question 89
 
