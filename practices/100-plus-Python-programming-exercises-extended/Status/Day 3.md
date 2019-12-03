@@ -271,3 +271,5 @@ print("LETTERS %d\nDIGITS %d"%(letter,digit))       # two different types of for
 [***go to next day***](Documentation/../Day%204.md "Day 4")
 
 [***Discussion***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/issues/3)
+
+[***Discussion***](Documentation/issues/3)
