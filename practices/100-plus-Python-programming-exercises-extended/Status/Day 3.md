@@ -272,4 +272,4 @@ print("LETTERS %d\nDIGITS %d"%(letter,digit))       # two different types of for
 
 [***Discussion***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/issues/3)
 
-[***Discussion***](../../../../issues/3)
+[***Discussion***](../../../../../issues/3)
