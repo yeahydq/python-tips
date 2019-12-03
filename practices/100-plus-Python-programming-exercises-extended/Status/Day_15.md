@@ -232,3 +232,11 @@ for i in range(1, n+1):
 print(round(sum, 2))  # rounded to 2 decimal point
 ```
 ---------------------
+
+</details>
+
+[***go to previous day***](Documentation/../Day_14.md "Day 17")
+
+[***go to next day***](Documentation/../Day_16.md "Day 19")
+
+[***Discussion***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/issues/3)

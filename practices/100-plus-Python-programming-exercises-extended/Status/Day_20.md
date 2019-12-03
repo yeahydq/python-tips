@@ -172,8 +172,10 @@ print array
 ```
 ----------------
 
-[***go to previous day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_19.md "Day 19")
+</details>
 
-[***go to next day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_21.md "Day 21")
+[***go to previous day***](Documentation/../Day_19.md "Day 19")
+
+[***go to next day***](Documentation/../Day_21.md "Day 21")
 
 [***Discussion***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/issues/3)

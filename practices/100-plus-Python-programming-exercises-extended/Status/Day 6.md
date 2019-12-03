@@ -208,11 +208,14 @@ lst.sort(key= lambda x:(x[0],x[1],x[2]))  # here key is defined by lambda and th
 print(lst)
 ```
 -----------------------
+
+</details>
+
 ## Conclusion
 ***Before the above problems, I didn't even know about re(regular expression) module and its use. I didn't even know how to sort by multiple keys. To solve those problems in different ways I had to explore and learn those syntax.There are a lots of interesting stuffs in re module though I faced quite a bit hardship to understand many of them.***
 
-[***go to previous day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day%205.md "Day 5")
+[***go to previous day***](Documentation/../Day%205.md "Day 5")
 
-[***go to next day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day%207.md "Day 7")
+[***go to next day***](Documentation/../Day%207.md "Day 7")
 
 [***Discussion***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/issues/3)

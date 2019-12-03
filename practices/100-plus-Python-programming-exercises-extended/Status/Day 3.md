@@ -260,11 +260,14 @@ for i in word:
 print("LETTERS %d\nDIGITS %d"%(letter,digit))       # two different types of formating method is shown in both solution
 ```
 -----------------
+
+</details>
+
 ## Conclusion
 ***All the above problems are mostly string related problems. Major parts of the solution includes string releted functions and comprehension method to write down the code in more shorter form.***
 
-[***go to previous day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day%202.md "Day 2")
+[***go to previous day***](Documentation/../Day%202.md "Day 2")
 
-[***go to next day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day%204.md "Day 4")
+[***go to next day***](Documentation/../Day%204.md "Day 4")
 
 [***Discussion***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/issues/3)

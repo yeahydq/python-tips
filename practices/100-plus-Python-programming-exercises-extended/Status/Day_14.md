@@ -160,9 +160,11 @@ ans = re.findall(pattern,email)
 print(ans)
 ```
 
+</details>
 
-[***go to previous day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_13.md "Day 13")
 
-[***go to next day***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_15.md "Day 15")
+[***go to previous day***](Documentation/../Day_13.md "Day 13")
+
+[***go to next day***](Documentation/../Day_15.md "Day 15")
 
 [***Discussion***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/issues/3)
