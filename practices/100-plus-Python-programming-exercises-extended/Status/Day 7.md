@@ -121,4 +121,4 @@ print(dist)
 
 [***go to next day***](Documentation/../Day%208.md "Day 8")
 
-[***Discussion***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/issues/3)
+[***Discussion***](../../../../../issues)

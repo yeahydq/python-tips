@@ -186,4 +186,4 @@ printVal(s1,s2)
 
 [***go to next day***](Documentation/../Day_10.md "Day 10")
 
-[***Discussion***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/issues/3)
+[***Discussion***](../../../../../issues)

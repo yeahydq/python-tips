@@ -178,4 +178,4 @@ print array
 
 [***go to next day***](Documentation/../Day_21.md "Day 21")
 
-[***Discussion***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/issues/3)
+[***Discussion***](../../../../../issues)

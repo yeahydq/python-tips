@@ -135,4 +135,4 @@ print(balance)
 
 [***go to next day***](Documentation/../Day%206.md "Day 6")
 
-[***Discussion***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/issues/3)
+[***Discussion***](../../../../../issues)

@@ -149,4 +149,4 @@ print(total)
 
 [***go to next day***](Documentation/../Day%205.md "Day 5")
 
-[***Discussion***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/issues/3)
+[***Discussion***](../../../../../issues)

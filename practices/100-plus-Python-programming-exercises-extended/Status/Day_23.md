@@ -251,4 +251,4 @@ if __name__ == '__main__':
 
 [***go to next day***](Documentation/../Day_24.md "Day 24")
 
-[***Discussion***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/issues/3)
+[***Discussion***](../../../../../issues)

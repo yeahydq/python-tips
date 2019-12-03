@@ -187,4 +187,4 @@ raise RuntimeError('something wrong')
 
 [***go to next day***](Documentation/../Day_14.md "Day 14")
 
-[***Discussion***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/issues/3)
+[***Discussion***](../../../../../issues)

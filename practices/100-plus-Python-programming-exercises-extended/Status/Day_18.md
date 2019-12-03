@@ -173,4 +173,4 @@ print(resp)
 
 [***go to next day***](Documentation/../Day_19.md "Day 19")
 
-[***Discussion***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/issues/3)
+[***Discussion***](../../../../../issues)

@@ -256,4 +256,4 @@ print(list(evenNumbers))
 
 [***go to next day***](Documentation/../Day_12.md "Day 12")
 
-[***Discussion***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/issues/3)
+[***Discussion***](../../../../../issues)

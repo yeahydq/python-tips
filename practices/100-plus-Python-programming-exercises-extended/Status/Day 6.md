@@ -218,4 +218,4 @@ print(lst)
 
 [***go to next day***](Documentation/../Day%207.md "Day 7")
 
-[***Discussion***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/issues/3)
+[***Discussion***](../../../../../issues)

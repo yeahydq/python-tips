@@ -220,4 +220,4 @@ print solutions
 
 [***go to next day***](Documentation/../Day_23.md "Day 23")
 
-[***Discussion***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/issues/3)
+[***Discussion***](../../../../../issues)

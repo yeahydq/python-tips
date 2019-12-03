@@ -362,4 +362,4 @@ for line in lst:
 
 [***go to next day***](Documentation/../Day%203.md "Day 3")
 
-[***Discussion***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/issues/3)
+[***Discussion***](../../../../../issues)

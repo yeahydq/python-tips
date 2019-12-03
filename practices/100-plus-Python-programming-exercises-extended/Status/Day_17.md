@@ -193,4 +193,4 @@ print(rand_num)
 
 [***go to next day***](Documentation/../Day_18.md "Day 18")
 
-[***Discussion***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/issues/3)
+[***Discussion***](../../../../../issues)

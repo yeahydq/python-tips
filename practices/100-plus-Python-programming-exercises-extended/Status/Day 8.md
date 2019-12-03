@@ -246,4 +246,4 @@ print("%s name is %s"%(Car.name,toyota.name))
 
 [***go to next day***](Documentation/../Day%209.md "Day 9")
 
-[***Discussion***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/issues/3)
+[***Discussion***](../../../../../issues)

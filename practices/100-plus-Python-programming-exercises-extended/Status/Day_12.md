@@ -127,4 +127,4 @@ print(newyorker)
 
 [***go to next day***](Documentation/../Day_13.md "Day 13")
 
-[***Discussion***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/issues/3)
+[***Discussion***](../../../../../issues)

@@ -287,4 +287,4 @@ printTupple()
 
 [***go to next day***](Documentation/../Day_11.md "Day 11")
 
-[***Discussion***](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/issues/3)
+[***Discussion***](../../../../../issues)
